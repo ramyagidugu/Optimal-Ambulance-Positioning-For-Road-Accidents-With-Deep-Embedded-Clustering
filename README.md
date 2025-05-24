@@ -14,7 +14,7 @@ This system utilizes Deep Embedded Clustering (DEC) to determine optimal ambulan
 🏗️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
-Backend: Django
+Backend: Python-Django
 
 Database: MySQL
 
